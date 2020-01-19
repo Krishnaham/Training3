@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 I am woking on git murge command
 kljasl;kjsldkajlkjk
+=======
+I am woking on git murge command.
+second check.
+>>>>>>> d23f9bfa802dfd51336b5df4a5c670b8dfc04a58
